@@ -281,15 +281,245 @@
               </div>
             </li>
 <div class="">
-  <h2 class="h3 text-center">🛒 Our Products 🛒</h2>
-
-  <ul class="row list-unstyled">
+  <!-- Grid Style 3 Start -->
+<div class="grid-title h3 text-center">
+    <h2>Our Products</h2>
+</div>
+        <div class="product-grid grid-3">
+            <div class="product-item">
+                <div class="product-single">
+                    <div class="product-img">
+                        <img src="./assets/images/product-9.jpg" alt="Product Image"/>
+                        <div class="product-price">
+                            <span>-30%</span>
+                            <span>$100</span>
+                        </div>
+                    </div>
+                    <div class="product-content">
+                        <div class="product-title">
+                            <h2><a href="">Product Title</a></h2>
+                        </div>
+                        <div class="product-ratting">
+                            <i class="fa fa-star"></i>
+                            <i class="fa fa-star"></i>
+                            <i class="fa fa-star"></i>
+                            <i class="fa fa-star"></i>
+                            <i class="fa fa-star-o"></i>
+                        </div>
+                        <div class="product-action">
+                            <a href=""><i class="fa fa-shopping-bag"></i> Add to Wishlist</a>
+                            <a href=""><i class="fa fa-shopping-cart"></i> Add to Cart</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="product-item">
+                <div class="product-single">
+                    <div class="product-img">
+                        <img src="./assets/images/product-10.jpg" alt="Product Image"/>
+                        <div class="product-price">
+                            <span>-30%</span>
+                            <span>$100</span>
+                        </div>
+                    </div>
+                    <div class="product-content">
+                        <div class="product-title">
+                            <h2><a href="">Product Title</a></h2>
+                        </div>
+                        <div class="product-ratting">
+                            <i class="fa fa-star"></i>
+                            <i class="fa fa-star"></i>
+                            <i class="fa fa-star"></i>
+                            <i class="fa fa-star"></i>
+                            <i class="fa fa-star-half-o"></i>
+                        </div>
+                        <div class="product-action">
+                            <a href=""><i class="fa fa-shopping-bag"></i> Add to Wishlist</a>
+                            <a href=""><i class="fa fa-shopping-cart"></i> Add to Cart</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="product-item">
+                <div class="product-single">
+                    <div class="product-img">
+                        <img src="./assets/images/product-11.jpg" alt="Product Image"/>
+                        <div class="product-price">
+                            <span>-30%</span>
+                            <span>$100</span>
+                        </div>
+                    </div>
+                    <div class="product-content">
+                        <div class="product-title">
+                            <h2><a href="">Product Title</a></h2>
+                        </div>
+                        <div class="product-ratting">
+                            <i class="fa fa-star"></i>
+                            <i class="fa fa-star"></i>
+                            <i class="fa fa-star"></i>
+                            <i class="fa fa-star"></i>
+                            <i class="fa fa-star"></i>
+                        </div>
+                        <div class="product-action">
+                            <a href=""><i class="fa fa-shopping-bag"></i> Add to Wishlist</a>
+                            <a href=""><i class="fa fa-shopping-cart"></i> Add to Cart</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="product-item">
+                <div class="product-single">
+                    <div class="product-img">
+                        <img src="./assets/images/product-4.jpg" alt="Product Image"/>
+                        <div class="product-price">
+                            <span>-30%</span>
+                            <span>$100</span>
+                        </div>
+                    </div>
+                    <div class="product-content">
+                        <div class="product-title">
+                            <h2><a href="">Product Title</a></h2>
+                        </div>
+                        <div class="product-ratting">
+                            <i class="fa fa-star"></i>
+                            <i class="fa fa-star"></i>
+                            <i class="fa fa-star"></i>
+                            <i class="fa fa-star"></i>
+                            <i class="fa fa-star"></i>
+                        </div>
+                        <div class="product-action">
+                            <a href=""><i class="fa fa-shopping-bag"></i> Add to Wishlist</a>
+                            <a href=""><i class="fa fa-shopping-cart"></i> Add to Cart</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+</div>
+        <div class="product-grid grid-3">
+            <div class="product-item">
+                <div class="product-single">
+                    <div class="product-img">
+                        <img src="./assets/images/product-9.jpg" alt="Product Image"/>
+                        <div class="product-price">
+                            <span>-30%</span>
+                            <span>$100</span>
+                        </div>
+                    </div>
+                    <div class="product-content">
+                        <div class="product-title">
+                            <h2><a href="">Product Title</a></h2>
+                        </div>
+                        <div class="product-ratting">
+                            <i class="fa fa-star"></i>
+                            <i class="fa fa-star"></i>
+                            <i class="fa fa-star"></i>
+                            <i class="fa fa-star"></i>
+                            <i class="fa fa-star-o"></i>
+                        </div>
+                        <div class="product-action">
+                            <a href=""><i class="fa fa-shopping-bag"></i> Add to Wishlist</a>
+                            <a href=""><i class="fa fa-shopping-cart"></i> Add to Cart</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="product-item">
+                <div class="product-single">
+                    <div class="product-img">
+                        <img src="./assets/images/product-10.jpg" alt="Product Image"/>
+                        <div class="product-price">
+                            <span>-30%</span>
+                            <span>$100</span>
+                        </div>
+                    </div>
+                    <div class="product-content">
+                        <div class="product-title">
+                            <h2><a href="">Product Title</a></h2>
+                        </div>
+                        <div class="product-ratting">
+                            <i class="fa fa-star"></i>
+                            <i class="fa fa-star"></i>
+                            <i class="fa fa-star"></i>
+                            <i class="fa fa-star"></i>
+                            <i class="fa fa-star-half-o"></i>
+                        </div>
+                        <div class="product-action">
+                            <a href=""><i class="fa fa-shopping-bag"></i> Add to Wishlist</a>
+                            <a href=""><i class="fa fa-shopping-cart"></i> Add to Cart</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="product-item">
+                <div class="product-single">
+                    <div class="product-img">
+                        <img src="./assets/images/product-11.jpg" alt="Product Image"/>
+                        <div class="product-price">
+                            <span>-30%</span>
+                            <span>$100</span>
+                        </div>
+                    </div>
+                    <div class="product-content">
+                        <div class="product-title">
+                            <h2><a href="">Product Title</a></h2>
+                        </div>
+                        <div class="product-ratting">
+                            <i class="fa fa-star"></i>
+                            <i class="fa fa-star"></i>
+                            <i class="fa fa-star"></i>
+                            <i class="fa fa-star"></i>
+                            <i class="fa fa-star"></i>
+                        </div>
+                        <div class="product-action">
+                            <a href=""><i class="fa fa-shopping-bag"></i> Add to Wishlist</a>
+                            <a href=""><i class="fa fa-shopping-cart"></i> Add to Cart</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="product-item">
+                <div class="product-single">
+                    <div class="product-img">
+                        <img src="./assets/images/product-4.jpg" alt="Product Image"/>
+                        <div class="product-price">
+                            <span>-30%</span>
+                            <span>$100</span>
+                        </div>
+                    </div>
+                    <div class="product-content">
+                        <div class="product-title">
+                            <h2><a href="">Product Title</a></h2>
+                        </div>
+                        <div class="product-ratting">
+                            <i class="fa fa-star"></i>
+                            <i class="fa fa-star"></i>
+                            <i class="fa fa-star"></i>
+                            <i class="fa fa-star"></i>
+                            <i class="fa fa-star"></i>
+                        </div>
+                        <div class="product-action">
+                            <a href=""><i class="fa fa-shopping-bag"></i> Add to Wishlist</a>
+                            <a href=""><i class="fa fa-shopping-cart"></i> Add to Cart</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+</div>
+        <!-- Grid Style 3 End -->
+ {{--<!--         
+<ul class="row list-unstyled">
     @forelse ($products as $product)
       <li class="col-md-3 mb-3">
         <div class="">
            <div class="card h-90 shadow-sm">
 
-          <!-- Product Image -->
+           Product Image 
           <figure class="m-0">
             <img src="{{ route('product.image.private', ['filename' => $product->image]) }}"
                  alt="{{ $product->name }}"
@@ -297,7 +527,7 @@
                  style="object-fit: cover; height: 250px;">
           </figure>
 
-          <!-- Product Info -->
+           Product Info 
           <div class="card-body d-flex flex-column">
             <h5 class="card-title fw-bold text-primary">{{ $product->name }}</h5>
             <p class="text-success fw-semibold mb-2">${{ number_format($product->price, 2) }}</p>
@@ -309,7 +539,7 @@
             </time>
           </div>
 
-           {{-- <!-- Card Footer Buttons
+            Card Footer Buttons
             <div class="card-footer d-flex justify-content-between mt-auto">
                        <form action="{{ route('cart.add', $product) }}" method="POST">
                             @csrf
@@ -325,7 +555,7 @@
         </div>
 </div>
        
-      </li>
+  {{--    </li>
     @empty
       <p class="text-muted text-center">😔 Hakuna bidhaa kwa sasa.</p>
     @endforelse
@@ -335,7 +565,7 @@
     </div>
 </ul>    
 </section>
-{{-- @endsection--}}
+ @endsection--}}
 
       <!-- 
         - #PROJECTS

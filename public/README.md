@@ -1,4 +1,4 @@
-# 🌟 John Doe Portfolio Website Template 🌟
+# 🌟 1414-Technology Website Template 🌟
 
 ![Website Screenshot](screenshot.png)
 
@@ -9,7 +9,7 @@ A simple, clean, and responsive personal portfolio website template, perfect for
 ![GitHub forks](https://img.shields.io/github/forks/pkprajapati7402/Johndoe-Portfolio-Website?style=social)
 ![GitHub language count](https://img.shields.io/github/languages/count/pkprajapati7402/Johndoe-Portfolio-Website)
 ![GitHub top language](https://img.shields.io/github/languages/top/pkprajapati7402/Johndoe-Portfolio-Website)
-![GitHub last commit](https://img.shields.io/github/last-commit/pkprajapati7402/Johndoe-Portfolio-Website)
+
 
 ## ✨ Features
 
@@ -55,15 +55,8 @@ Contributions are what make the open-source community such an amazing place to l
 
 ## 📄 License
 
-Distributed under the MIT License. See `LICENSE` for more information.
-
-## 📬 Contact
-
-
-Project Link: [https://github.com/pkprajapati7402/Johndoe-Portfolio-Website](https://github.com/pkprajapati7402/Johndoe-Portfolio-Website)
-
+Distributed under the MIT License. See `LICENSE` for more inform
 ---
-
-Feel free to use this template as a starting point for your own personal website and make sure to give it a star if you find it useful! ⭐
+⭐
 
 ![GitHub followers](https://img.shields.io/github/followers/pkprajapati7402?style=social)
